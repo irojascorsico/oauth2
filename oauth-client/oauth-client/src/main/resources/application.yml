@@ -1,0 +1,16 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          oauth-client:
+            provider: oauth-server
+            client-id: oauth-client
+            client-secret: 12345678910
+            authorization-grant-type: authorization_code
+            redirect-uri: "http://127.0.0.1:8080/authorized"
+            client-name: oauth-client
+            scope: openid,profile,read,write
+        provider:
+          oauth-server:
+            issuer-uri: http://127.0.0.1:9000
