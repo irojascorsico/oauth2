@@ -13,6 +13,6 @@ Technologies used:
 
 ## YouTube Channel
 
-   For a detailed step-by-step explanation of the login implementation, please visit https://youtu.be/oHiIBkSv3nw?si=m6w5KBnoWrvTm51a
+   For a detailed step-by-step explanation of the login implementation, please visit [https://youtu.be/oHiIBkSv3nw?si=m6w5KBnoWrvTm51a](https://youtu.be/oHiIBkSv3nw?si=uQIoObt_XntjhSWd)
 
 
